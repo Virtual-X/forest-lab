@@ -1,3 +1,5 @@
+https://pyquil.readthedocs.io/en/stable/exercises.html
+
 qvm -S
 quilc -S
 
